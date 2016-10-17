@@ -1,8 +1,8 @@
-# Generate default config
-# ranger --copy-config=all
+### Generate default config
+### ranger --copy-config=all
 
-# Insert to end of file ~/.config/ranger/rc.conf
-
+### Insert to end of file ~/.config/ranger/rc.conf
+```
 set sort_case_insensitive True
 set sort_directories_first True
 set draw_borders True
@@ -26,3 +26,4 @@ map <F2> console rename %f
 
 map df flat -1
 map ddf flat 0
+```
