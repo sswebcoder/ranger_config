@@ -26,4 +26,5 @@ map <F2> console rename %f
 
 map df flat -1
 map ddf flat 0
+map !  console shell%space-w%space
 ```
